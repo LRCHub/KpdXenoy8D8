@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "I LOVE ME",
+  "base_artist": "コレサワ",
+  "createdAt": "2026-02-23T07:11:26.783760Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Love Me",
+      "artist": "Meghan Trainor feat. Lunchmoney Lewis",
+      "has_synced": true,
+      "path": "select/01_I_Love_Me_Meghan_Trainor_feat._Lunchmoney_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Love Me",
+      "artist": "Meghan Trainor with LunchMoney Lewis",
+      "has_synced": true,
+      "path": "select/02_I_Love_Me_Meghan_Trainor_with_LunchMoney_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Love You But I Love Me More",
+      "artist": "MARINA",
+      "has_synced": true,
+      "path": "select/03_I_Love_You_But_I_Love_Me_More_MARINA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Love Me",
+      "artist": "Sebadoh",
+      "has_synced": false,
+      "path": "select/04_I_Love_Me_Sebadoh.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Love Me",
+      "artist": "4s4ki",
+      "has_synced": false,
+      "path": "select/05_I_Love_Me_4s4ki.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I LOVE ME",
+      "artist": "4s4ki",
+      "has_synced": false,
+      "path": "select/06_I_LOVE_ME_4s4ki.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Love Me Some Him",
+      "artist": "Toni Braxton",
+      "has_synced": true,
+      "path": "select/07_I_Love_Me_Some_Him_Toni_Braxton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Love Me Some Him (B-Side)",
+      "artist": "Toni Braxton",
+      "has_synced": true,
+      "path": "select/08_I_Love_Me_Some_Him_(B-Side)_Toni_Braxton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Love Me",
+      "artist": "Meghan Trainor, LunchMoney Lewis",
+      "has_synced": true,
+      "path": "select/09_I_Love_Me_Meghan_Trainor,_LunchMoney_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Love Me",
+      "artist": "Meghan Trainor ft. LunchMoney Lewis",
+      "has_synced": false,
+      "path": "select/10_I_Love_Me_Meghan_Trainor_ft._LunchMoney_Lewis.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Love Me",
+      "artist": "Meghan Trainor",
+      "has_synced": true,
+      "path": "select/11_I_Love_Me_Meghan_Trainor.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Love Me So Him",
+      "artist": "Toni Braxton",
+      "has_synced": true,
+      "path": "select/12_I_Love_Me_So_Him_Toni_Braxton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Love You But I Love Me More",
+      "artist": "MARINA",
+      "has_synced": true,
+      "path": "select/13_I_Love_You_But_I_Love_Me_More_MARINA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Love You But I Love Me More (feat. Beach Bunny)",
+      "artist": "MARINA feat. Beach Bunny",
+      "has_synced": true,
+      "path": "select/14_I_Love_You_But_I_Love_Me_More_(feat._Beach_Bunny)_MARINA_feat._Beach_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Love You But I Love Me More (feat. Beach Bunny)",
+      "artist": "Marina; Beach Bunny",
+      "has_synced": true,
+      "path": "select/15_I_Love_You_But_I_Love_Me_More_(feat._Beach_Bunny)_Marina;_Beach_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Love Me",
+      "artist": "Meghan Trainor",
+      "has_synced": true,
+      "path": "select/16_I_Love_Me_Meghan_Trainor.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Love Me",
+      "artist": "Han Seung-yeon",
+      "has_synced": false,
+      "path": "select/17_I_Love_Me_Han_Seung-yeon.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I LOVE ME",
+      "artist": "コレサワ",
+      "has_synced": false,
+      "path": "select/pl_01_I_LOVE_ME_コレサワ.txt"
+    }
+  ]
+}
